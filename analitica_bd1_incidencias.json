@@ -1,0 +1,249 @@
+{
+    "metadata": {
+        "base_datos": "bd1",
+        "objetivo": "Análisis de impacto económico y volumen de incidencias por municipio",
+        "fecha_extraccion": "2026-10-25 21:54:04"
+    },
+    "resumen_analitico": [
+        {
+            "municipio": "Valencia",
+            "provincia": "Ciudad",
+            "categoria_incidencia": "Seguridad",
+            "total_incidencias": 3,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 2,
+            "coste_medio_actuaciones": 1010.11,
+            "coste_total_actuaciones": 7070.77
+        },
+        {
+            "municipio": "Granada",
+            "provincia": "Badajoz",
+            "categoria_incidencia": "Alumbrado",
+            "total_incidencias": 4,
+            "incidencias_resueltas": 2,
+            "incidencias_pendientes": 2,
+            "coste_medio_actuaciones": 618.84,
+            "coste_total_actuaciones": 6807.29
+        },
+        {
+            "municipio": "Vizcaya",
+            "provincia": "Tarragona",
+            "categoria_incidencia": "Alumbrado",
+            "total_incidencias": 2,
+            "incidencias_resueltas": 2,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": 862.67,
+            "coste_total_actuaciones": 5176.02
+        },
+        {
+            "municipio": "Vizcaya",
+            "provincia": "Tarragona",
+            "categoria_incidencia": "Seguridad",
+            "total_incidencias": 2,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 2,
+            "coste_medio_actuaciones": 797.83,
+            "coste_total_actuaciones": 3989.16
+        },
+        {
+            "municipio": "Zamora",
+            "provincia": "León",
+            "categoria_incidencia": "Limpieza",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": 957.06,
+            "coste_total_actuaciones": 3828.23
+        },
+        {
+            "municipio": "Zamora",
+            "provincia": "León",
+            "categoria_incidencia": "Alumbrado",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": 1337.32,
+            "coste_total_actuaciones": 2674.63
+        },
+        {
+            "municipio": "Sevilla",
+            "provincia": "Ourense",
+            "categoria_incidencia": "Vías Públicas",
+            "total_incidencias": 2,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": 760.4,
+            "coste_total_actuaciones": 2281.21
+        },
+        {
+            "municipio": "Zamora",
+            "provincia": "León",
+            "categoria_incidencia": "Jardinería",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": 963.56,
+            "coste_total_actuaciones": 1927.12
+        },
+        {
+            "municipio": "Sevilla",
+            "provincia": "Ourense",
+            "categoria_incidencia": "Alumbrado",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": 731.06,
+            "coste_total_actuaciones": 1462.11
+        },
+        {
+            "municipio": "Valencia",
+            "provincia": "Ciudad",
+            "categoria_incidencia": "Alumbrado",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": 858.34,
+            "coste_total_actuaciones": 858.34
+        },
+        {
+            "municipio": "Vizcaya",
+            "provincia": "Tarragona",
+            "categoria_incidencia": "Vías Públicas",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": 383.13,
+            "coste_total_actuaciones": 766.26
+        },
+        {
+            "municipio": "Granada",
+            "provincia": "Badajoz",
+            "categoria_incidencia": "Limpieza",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": 555.14,
+            "coste_total_actuaciones": 555.14
+        },
+        {
+            "municipio": "Jaén",
+            "provincia": "La Coruña",
+            "categoria_incidencia": "Limpieza",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Jaén",
+            "provincia": "La Coruña",
+            "categoria_incidencia": "Seguridad",
+            "total_incidencias": 3,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 3,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Jaén",
+            "provincia": "La Coruña",
+            "categoria_incidencia": "Vías Públicas",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Cantabria",
+            "provincia": "Castellón",
+            "categoria_incidencia": "Limpieza",
+            "total_incidencias": 2,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Jaén",
+            "provincia": "La Coruña",
+            "categoria_incidencia": "Jardinería",
+            "total_incidencias": 3,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 2,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Soria",
+            "provincia": "Alicante",
+            "categoria_incidencia": "Limpieza",
+            "total_incidencias": 2,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Soria",
+            "provincia": "Alicante",
+            "categoria_incidencia": "Seguridad",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Jaén",
+            "provincia": "Cáceres",
+            "categoria_incidencia": "Limpieza",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Ceuta",
+            "provincia": "Huelva",
+            "categoria_incidencia": "Seguridad",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 0,
+            "incidencias_pendientes": 1,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Ceuta",
+            "provincia": "Huelva",
+            "categoria_incidencia": "Limpieza",
+            "total_incidencias": 1,
+            "incidencias_resueltas": 1,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Ceuta",
+            "provincia": "Huelva",
+            "categoria_incidencia": "Jardinería",
+            "total_incidencias": 2,
+            "incidencias_resueltas": 2,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        },
+        {
+            "municipio": "Ceuta",
+            "provincia": "Huelva",
+            "categoria_incidencia": "Alumbrado",
+            "total_incidencias": 2,
+            "incidencias_resueltas": 2,
+            "incidencias_pendientes": 0,
+            "coste_medio_actuaciones": null,
+            "coste_total_actuaciones": null
+        }
+    ]
+}
